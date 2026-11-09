@@ -4,6 +4,39 @@
 
 It works for both **drivers** and **passengers** (jeepney, bus, car). It was built with Metro Manila roads in mind.
 
+<p align="center">
+  <img src="docs/screenshots/01_welcome.jpg" width="200" alt="Welcome screen">
+  <img src="docs/screenshots/08_home_trips.jpg" width="200" alt="Home: recent trips">
+  <img src="docs/screenshots/13_summary_score.jpg" width="200" alt="Trip summary with Comfort Score">
+  <img src="docs/screenshots/11_drive_view.jpg" width="200" alt="Driving view">
+</p>
+
+---
+
+## Screenshots
+
+### Trips & Comfort Score
+<p>
+  <img src="docs/screenshots/07_home_safety.jpg" width="200" alt="Home with safety guards">
+  <img src="docs/screenshots/14_why_this_score.jpg" width="200" alt="Why this score: penalty breakdown">
+  <img src="docs/screenshots/16_history.jpg" width="200" alt="Trip history">
+  <img src="docs/screenshots/17_sensor_check.jpg" width="200" alt="Sensor Check">
+</p>
+
+### Safety
+<p>
+  <img src="docs/screenshots/19_safety_tab.jpg" width="200" alt="Safety tab">
+  <img src="docs/screenshots/21_lane_weaving.jpg" width="200" alt="Lane weaving and crash detection settings">
+  <img src="docs/screenshots/30_crash_countdown.jpg" width="200" alt="Crash detected countdown">
+  <img src="docs/screenshots/31_sos.jpg" width="200" alt="Loud cabin, mount check and SOS">
+</p>
+
+### Admin dashboard & demos
+<p>
+  <img src="docs/screenshots/35_admin_overview.jpg" width="200" alt="Admin community overview">
+  <img src="docs/screenshots/44_drift_check.jpg" width="200" alt="Drift check demo">
+</p>
+
 ---
 
 ## Features
