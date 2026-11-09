@@ -1,3 +1,5 @@
+![Biyahe Companion: Know how your road really feels.](docs/banner.jpg)
+
 # Biyahe Companion
 
 **A sensor-powered ride companion for Android.** Biyahe Companion uses the sensors in your phone to rate how comfortable a trip was, warn you about unsafe driving, and let you report road hazards like potholes and floods.
