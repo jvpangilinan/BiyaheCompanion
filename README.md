@@ -7,6 +7,12 @@
 It works for both **drivers** and **passengers** (jeepney, bus, car). It was built with Metro Manila roads in mind.
 
 <p align="center">
+  <a href="https://drive.google.com/file/d/1kbhr2t2Icuaxw7Q6h6lsMrAGWLTxH84Y/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Download-APK-d32f2f?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+  </a>
+</p>
+
+<p align="center">
   <img src="docs/screenshots/01_welcome.jpg" width="200" alt="Welcome screen">
   <img src="docs/screenshots/08_home_trips.jpg" width="200" alt="Home: recent trips">
   <img src="docs/screenshots/13_summary_score.jpg" width="200" alt="Trip summary with Comfort Score">
@@ -41,9 +47,20 @@ It works for both **drivers** and **passengers** (jeepney, bus, car). It was bui
 
 ---
 
+## Download
+
+**[Download the APK (Google Drive)](https://drive.google.com/file/d/1kbhr2t2Icuaxw7Q6h6lsMrAGWLTxH84Y/view?usp=drive_link)**
+
+To install it:
+1. Open the link on your Android phone (Android 8.0 or newer) and download the APK.
+2. Open the downloaded file. If Android blocks it, allow **Install unknown apps** for your browser or file manager when it asks.
+3. Open **Biyahe Companion**. Choose **Demo mode** to look around with sample data, or create an account to record real trips.
+
+---
+
 ## Features
 
-### 🚌 Trip tracking & Comfort Score
+### Trip tracking & Comfort Score
 - Records your route, speed and distance with GPS and draws it on an OpenStreetMap map. No API key needed.
 - Gives each trip a **Comfort Score (0–100)**, rated *Smooth*, *Fair* or *Rough*. The score is based on:
   - vibration and **bumps/potholes** (accelerometer)
@@ -53,7 +70,7 @@ It works for both **drivers** and **passengers** (jeepney, bus, car). It was bui
 - Counts **walking steps** to and from the stop.
 - Shows a score breakdown and keeps a full trip history.
 
-### 🛡️ Safety
+### Safety
 - **Speed limit warning.** It ignores single bad GPS readings and doesn't nag when you hover right at the limit.
 - **Lane-weaving detection.** It tells normal lane changes and curves apart from repeated weaving, and it is checked against the GPS course.
 - **Drowsiness "eye watch".** On-device face detection (ML Kit) gives a spoken warning when your eyes droop and sounds an alarm if they stay shut. It works offline.
@@ -61,18 +78,18 @@ It works for both **drivers** and **passengers** (jeepney, bus, car). It was bui
 - **Rain warning.** It uses the barometer, since falling air pressure is an early sign of rain.
 - **Driving vs. Riding mode.** Drivers get spoken alerts and a large, glanceable trip screen. Passengers get comfort scoring, and vehicle speeding is logged quietly instead of nagging them.
 
-### ⚠️ Hazard reporting
+### Hazard reporting
 - Take a photo of a pothole, flood or other hazard and pin it to its location.
 - Hazards sync to the cloud through **Firebase Firestore**.
 - A separate **admin dashboard** lets you review reports and prepare them for the right agency.
 
-### 📱 Smart screen & privacy
+### Smart screen & privacy
 - **Ambient light sensor:** dims the screen at night and in tunnels, and brightens it in the sun.
 - **Proximity sensor:** rests the screen when the phone is in a pocket.
 - **Fingerprint lock:** only you can open your trip history.
 - Accounts with email/password or **Continue with Google**.
 
-### 🧪 Demo & diagnostics
+### Demo & diagnostics
 - **Demo mode** uses a separate database full of sample trips and hazards, and cloud sync is turned off. Your real data is never touched, which makes it safe for presentations.
 - **Sensor Check:** live test screens for all 11 sensors, in presentation order.
 - **Drift demo:** "walk a straight line" pedestrian dead reckoning using the gyroscope, compass and step detection.
@@ -141,7 +158,7 @@ Open the folder in Android Studio and let Gradle sync.
 5. For Google sign-in, add your debug SHA-1 fingerprint to the Firebase app. You can get it with `./gradlew signingReport`.
 
 ### 3. Run
-Connect your phone with USB debugging on, then press **Run ▶** in Android Studio. On first launch, choose **Demo mode** to look around with sample data, or create an account to record real trips.
+Connect your phone with USB debugging on, then press **Run** in Android Studio. On first launch, choose **Demo mode** to look around with sample data, or create an account to record real trips.
 
 ### Running the tests
 Unit tests don't need a phone. Run them from Android Studio by right-clicking `app/src/test` → **Run Tests**, or from the command line:
