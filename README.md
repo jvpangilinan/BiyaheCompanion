@@ -5,7 +5,9 @@
   Rates how comfortable your trip was, warns you about unsafe driving, and lets you report potholes and floods.<br>
   For drivers and passengers (jeepney, bus, car). Built for Metro Manila roads.
 </p>
+## Visit the developer
 
+**[Visit the developer (linkedin)](https://www.linkedin.com/in/jvpangilinan/)**
 <p align="center">
   <a href="https://drive.google.com/file/d/1kbhr2t2Icuaxw7Q6h6lsMrAGWLTxH84Y/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Download-APK-d32f2f?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
