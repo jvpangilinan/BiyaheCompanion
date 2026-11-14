@@ -13,6 +13,7 @@
   </a>
   <img src="https://img.shields.io/badge/Android-8.0%2B-111111?style=for-the-badge" alt="Android 8.0+">
   <img src="https://img.shields.io/badge/Kotlin-Jetpack%20Compose-111111?style=for-the-badge" alt="Kotlin + Jetpack Compose">
+  <a href="#1st-place-sensorverse-2026"><img src="https://img.shields.io/badge/1st%20place-Sensorverse%202026-d32f2f?style=for-the-badge" alt="1st place, Sensorverse 2026"></a>
 </p>
 
 <p align="center">
@@ -33,6 +34,21 @@
 <a href="https://drive.google.com/file/d/1kbhr2t2Icuaxw7Q6h6lsMrAGWLTxH84Y/view?usp=drive_link"><img src="docs/getapp.jpg" alt="Get the app: scan the QR code to download the APK."></a>
 
 ---
+
+## 1st place: Sensorverse 2026
+
+Biyahe Companion won **1st place** at Sensorverse 2026, the BSIT Department's app showcase at San Beda College Alabang. Voting was on paper ballots: each voter circled their top 5 of the 16 apps. Biyahe Companion is **#12, BYAHE**.
+
+<p align="center">
+  <img src="docs/sensorverse-2026-ballots.jpg" width="640" alt="The Sensorverse 2026 paper ballots laid out on a table. Each one lists 16 apps; voters circled their top 5. Biyahe Companion is number 12, BYAHE.">
+</p>
+
+**Team (BSIT 3A, Group 1)**
+- **John Vincent S. Pangilinan**: lead developer (the app, sensors, safety features, scoring, sync)
+- **Jaden Daryl De Leon**: presenter; his pitch is what won the room and most of the votes
+- **Samuel Encinares**
+
+ITP3110R, Mark Cherwin Alejandria.
 
 ## Read me first
 
