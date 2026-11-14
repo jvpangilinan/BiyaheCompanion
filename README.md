@@ -46,7 +46,7 @@ Biyahe Companion won **1st place** at Sensorverse 2026, the BSIT Department's ap
 **Team (BSIT 3A, Group 1)**
 - **John Vincent S. Pangilinan**: lead developer (the app, sensors, safety features, scoring, sync)
 - **Jaden Daryl De Leon**: presenter; his pitch is what won the room and most of the votes
-- **Samuel Encinares**
+- **Samuel Encinares**: made the presentation deck, presented alongside Jaden, and helped make the demo video
 
 ITP3110R, Mark Cherwin Alejandria.
 
@@ -272,6 +272,6 @@ The `README_*.md` files and `notes/` folder are development notes from building 
 Ranked #1 Of all apps
 - John Vincent S. Pangilinan - Main Developer ([@jvpangilinan](https://www.linkedin.com/in/jvpangilinan/))
 - Jaden Daryl De Leon - Main Presenter ([Jaden](https://www.linkedin.com/in/jaden-de-leon-0aa54b422/))
-- Samuel Encinares - Presenter ([Sam](https://www.linkedin.com/in/timothy-samuel-encinares-7a1270414/))
+- Samuel Encinares - Presenter, presentation deck and demo video ([Sam](https://www.linkedin.com/in/timothy-samuel-encinares-7a1270414/))
 
 ITP3110R · Mark Cherwin Alejandria
