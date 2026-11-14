@@ -1,12 +1,16 @@
-<a href="https://drive.google.com/file/d/1kbhr2t2Icuaxw7Q6h6lsMrAGWLTxH84Y/view?usp=drive_link"><img src="docs/banner.jpg" alt="Biyahe Companion: Know how your road really feels. A Mobile Commute Monitoring and Comfort Scoring System Using Smartphone Sensors."></a>
+<p align="center">
+  <a href="docs/biyahe-demo.mp4"><img src="docs/demo-thumbnail.jpg" width="820" alt="Watch the 2-minute demo: on a real drive, the phone on the dashboard turns red with WAKE UP when the eyes it watches close for 1.5 seconds."></a><br>
+  <sub><b><a href="docs/biyahe-demo.mp4">Watch the 2-minute demo</a></b> (MP4, 9.5 MB)</sub>
+</p>
 
 <p align="center">
-  <b>A sensor-powered ride companion for Android.</b><br>
-  Rates how comfortable your trip was, warns you about unsafe driving, and lets you report potholes and floods.<br>
+  <b>A sensor-powered driver-safety companion for Android.</b><br>
+  Warns you when you speed, weave or nod off, alerts your contacts after a crash, lets you report potholes and floods, and rates how comfortable your trip was.<br>
   For drivers and passengers (jeepney, bus, car). Built for Metro Manila roads.
 </p>
 
 **[Visit the developer (linkedin)](https://www.linkedin.com/in/jvpangilinan/)**
+
 <p align="center">
   <a href="https://drive.google.com/file/d/1kbhr2t2Icuaxw7Q6h6lsMrAGWLTxH84Y/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Download-APK-d32f2f?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
@@ -15,6 +19,27 @@
   <img src="https://img.shields.io/badge/Kotlin-Jetpack%20Compose-111111?style=for-the-badge" alt="Kotlin + Jetpack Compose">
   <a href="#1st-place-sensorverse-2026"><img src="https://img.shields.io/badge/1st%20place-Sensorverse%202026-d32f2f?style=for-the-badge" alt="1st place, Sensorverse 2026"></a>
 </p>
+
+---
+
+## 1st place: Sensorverse 2026
+
+Biyahe Companion won **1st place** at Sensorverse 2026, the BSIT Department's app showcase at San Beda College Alabang. Voting was on paper ballots: each voter circled their top 5 of the 16 apps. Biyahe Companion is **#12, BYAHE**.
+
+<p align="center">
+  <img src="docs/sensorverse-2026-ballots.jpg" width="640" alt="The Sensorverse 2026 paper ballots laid out on a table. Each one lists 16 apps; voters circled their top 5. Biyahe Companion is number 12, BYAHE.">
+</p>
+
+**Team** · SENSORVERSE 2026 · Group 1 · TARP 5 · BSIT 3A · School of Engineering and Technology
+- **John Vincent S. Pangilinan**: main developer (the app, sensors, safety features, scoring, sync) · [LinkedIn](https://www.linkedin.com/in/jvpangilinan/)
+- **Jaden Daryl De Leon**: main presenter; his pitch is what won the room and most of the votes · [LinkedIn](https://www.linkedin.com/in/jaden-de-leon-0aa54b422/)
+- **Samuel Encinares**: made the presentation deck, presented alongside Jaden, and helped make the demo video · [LinkedIn](https://www.linkedin.com/in/timothy-samuel-encinares-7a1270414/)
+
+ITP3110R · Mark Cherwin Alejandria
+
+---
+
+<a href="https://drive.google.com/file/d/1kbhr2t2Icuaxw7Q6h6lsMrAGWLTxH84Y/view?usp=drive_link"><img src="docs/banner.jpg" alt="Biyahe Companion: Know how your road really feels. A Mobile Commute Monitoring and Comfort Scoring System Using Smartphone Sensors."></a>
 
 <p align="center">
   <img src="docs/screenshots/01_welcome.jpg" width="200" alt="Welcome screen">
@@ -34,21 +59,6 @@
 <a href="https://drive.google.com/file/d/1kbhr2t2Icuaxw7Q6h6lsMrAGWLTxH84Y/view?usp=drive_link"><img src="docs/getapp.jpg" alt="Get the app: scan the QR code to download the APK."></a>
 
 ---
-
-## 1st place: Sensorverse 2026
-
-Biyahe Companion won **1st place** at Sensorverse 2026, the BSIT Department's app showcase at San Beda College Alabang. Voting was on paper ballots: each voter circled their top 5 of the 16 apps. Biyahe Companion is **#12, BYAHE**.
-
-<p align="center">
-  <img src="docs/sensorverse-2026-ballots.jpg" width="640" alt="The Sensorverse 2026 paper ballots laid out on a table. Each one lists 16 apps; voters circled their top 5. Biyahe Companion is number 12, BYAHE.">
-</p>
-
-**Team** · SENSORVERSE 2026 · Group 1 · TARP 5 · BSIT 3A · School of Engineering and Technology
-- **John Vincent S. Pangilinan**: main developer (the app, sensors, safety features, scoring, sync) · [LinkedIn](https://www.linkedin.com/in/jvpangilinan/)
-- **Jaden Daryl De Leon**: main presenter; his pitch is what won the room and most of the votes · [LinkedIn](https://www.linkedin.com/in/jaden-de-leon-0aa54b422/)
-- **Samuel Encinares**: made the presentation deck, presented alongside Jaden, and helped make the demo video · [LinkedIn](https://www.linkedin.com/in/timothy-samuel-encinares-7a1270414/)
-
-ITP3110R · Mark Cherwin Alejandria
 
 ## Read me first
 
