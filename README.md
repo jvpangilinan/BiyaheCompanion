@@ -253,7 +253,7 @@ The `README_*.md` files and `notes/` folder are development notes from building 
 ## Team
 
 **SENSORVERSE 2026 · Group 1** · TARP 5 · BSIT 3A · School of Engineering and Technology
-
+Ranked #1 Of all apps
 - John Vincent S. Pangilinan - Main Developer ([@jvpangilinan](https://www.linkedin.com/in/jvpangilinan/))
 - Jaden Daryl De Leon - Main Presenter ([Jaden](https://www.linkedin.com/in/jaden-de-leon-0aa54b422/))
 - Samuel Encinares - Presenter ([Sam](https://www.linkedin.com/in/timothy-samuel-encinares-7a1270414/))
