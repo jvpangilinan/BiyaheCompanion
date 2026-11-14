@@ -43,12 +43,12 @@ Biyahe Companion won **1st place** at Sensorverse 2026, the BSIT Department's ap
   <img src="docs/sensorverse-2026-ballots.jpg" width="640" alt="The Sensorverse 2026 paper ballots laid out on a table. Each one lists 16 apps; voters circled their top 5. Biyahe Companion is number 12, BYAHE.">
 </p>
 
-**Team (BSIT 3A, Group 1)**
-- **John Vincent S. Pangilinan**: lead developer (the app, sensors, safety features, scoring, sync)
-- **Jaden Daryl De Leon**: presenter; his pitch is what won the room and most of the votes
-- **Samuel Encinares**: made the presentation deck, presented alongside Jaden, and helped make the demo video
+**Team** · SENSORVERSE 2026 · Group 1 · TARP 5 · BSIT 3A · School of Engineering and Technology
+- **John Vincent S. Pangilinan**: main developer (the app, sensors, safety features, scoring, sync) · [LinkedIn](https://www.linkedin.com/in/jvpangilinan/)
+- **Jaden Daryl De Leon**: main presenter; his pitch is what won the room and most of the votes · [LinkedIn](https://www.linkedin.com/in/jaden-de-leon-0aa54b422/)
+- **Samuel Encinares**: made the presentation deck, presented alongside Jaden, and helped make the demo video · [LinkedIn](https://www.linkedin.com/in/timothy-samuel-encinares-7a1270414/)
 
-ITP3110R, Mark Cherwin Alejandria.
+ITP3110R · Mark Cherwin Alejandria
 
 ## Read me first
 
@@ -263,15 +263,3 @@ app/src/main/java/com/biyahe/companion/
 ```
 
 The `README_*.md` files and `notes/` folder are development notes from building the app section by section.
-
----
-
-## Team
-
-**SENSORVERSE 2026 · Group 1** · TARP 5 · BSIT 3A · School of Engineering and Technology
-Ranked #1 Of all apps
-- John Vincent S. Pangilinan - Main Developer ([@jvpangilinan](https://www.linkedin.com/in/jvpangilinan/))
-- Jaden Daryl De Leon - Main Presenter ([Jaden](https://www.linkedin.com/in/jaden-de-leon-0aa54b422/))
-- Samuel Encinares - Presenter, presentation deck and demo video ([Sam](https://www.linkedin.com/in/timothy-samuel-encinares-7a1270414/))
-
-ITP3110R · Mark Cherwin Alejandria
