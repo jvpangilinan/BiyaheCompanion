@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="docs/biyahe-demo.mp4"><img src="docs/demo-thumbnail.jpg" width="820" alt="Watch the 2-minute demo: on a real drive, the phone on the dashboard turns red with WAKE UP when the eyes it watches close for 1.5 seconds."></a><br>
-  <sub><b><a href="docs/biyahe-demo.mp4">Watch the 2-minute demo</a></b> (MP4, 9.5 MB)</sub>
+  <a href="https://github.com/user-attachments/assets/31376877-0a35-4421-adce-081b10d3e96d"><img src="docs/demo-thumbnail.jpg" width="820" alt="Watch the 2-minute demo: on a real drive, the phone on the dashboard turns red with WAKE UP when the eyes it watches close for 1.5 seconds."></a><br>
+  <sub><b><a href="https://github.com/user-attachments/assets/31376877-0a35-4421-adce-081b10d3e96d">Watch the 2-minute demo</a></b></sub>
 </p>
 
 <p align="center">
