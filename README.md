@@ -32,8 +32,8 @@ Biyahe Companion won **1st place** at Sensorverse 2026, the BSIT Department's ap
 
 **Team** · SENSORVERSE 2026 · Group 1 · TARP 5 · BSIT 3A · School of Engineering and Technology
 - **John Vincent S. Pangilinan**: main developer (the app, sensors, safety features, scoring, sync) · [LinkedIn](https://www.linkedin.com/in/jvpangilinan/)
-- **Jaden Daryl De Leon**: main presenter; his pitch is what won the room and most of the votes · [LinkedIn](https://www.linkedin.com/in/jaden-de-leon-0aa54b422/)
-- **Samuel Encinares**: made the presentation deck, presented alongside Jaden, and helped make the demo video · [LinkedIn](https://www.linkedin.com/in/timothy-samuel-encinares-7a1270414/)
+- **Jaden Daryl De Leon**: main presenter and driver tester; road-tested every driver feature, and his pitch is what won the room and most of the votes · [LinkedIn](https://www.linkedin.com/in/jaden-de-leon-0aa54b422/)
+- **Samuel Encinares**: presenter and passenger tester; road-tested the passenger features, made the presentation deck, and helped make the demo video · [LinkedIn](https://www.linkedin.com/in/timothy-samuel-encinares-7a1270414/)
 
 ITP3110R · Mark Cherwin Alejandria
 
